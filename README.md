@@ -1,4 +1,4 @@
-#Addigy Community-Driven, Public Software Standards
+# Addigy Community-Driven, Public Software Standards
 
 This is where a handful of Addigy users layout what we believe to be best practices for adding and managing software in Addigy's public software repository.
 
